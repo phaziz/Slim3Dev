@@ -1,0 +1,7 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "monolog/monolog": "1.23.0",
+        "twig/twig": "2.4.4"
+    }
+}
